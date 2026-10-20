@@ -1,0 +1,12 @@
+# Public repository: explicit allowlist, not a private runtime directory.
+*
+!.gitignore
+!README.md
+!AGENTS.md
+!SECURITY.md
+!docs/
+!docs/workflow.md
+!docs/model-updates.md
+!docs/a2a-setup.md
+!examples/
+!examples/credentials.env.example
